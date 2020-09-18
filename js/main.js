@@ -1,4 +1,4 @@
-var employeedata = d3.json("employee.json")
+var employeedata = d3.json("../employee.json")
 var successFCN = function(employee)
 {
     console.log("Data retrieved", employee); drawtable(employee);
