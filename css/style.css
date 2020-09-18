@@ -1,0 +1,8 @@
+#employeeTable {
+    border-style: solid;
+    border-width: medium;
+    border-color: brown;
+}
+td {
+    border: 1px solid brown;
+}

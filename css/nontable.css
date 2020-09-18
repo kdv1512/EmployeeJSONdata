@@ -1,0 +1,78 @@
+div {
+    text-align:left;
+    border: 5px;
+}
+.employee {
+    width: 550px;
+    height: 180px;
+    margin: 30px;
+    padding: 10px;
+    border: 3px solid black;
+    -moz-box-shadow: 5px 5px 5px 5px #777777;
+    -webkit-box-shadow: 5px 5px 5px 5px #777777;
+    box-shadow: 5px 5px 5px 5px #777777;
+    border-radius: 20px 20px;
+}
+}
+.eName {
+    font-weight: bold;
+    float: left;
+    top: 0px;
+    margin: 5px;
+    text-align: center;
+}
+img {
+    float: left;
+    margin: 10px;
+    padding 20px;
+    height: 125px;
+    width: 125px;
+    clear:left;
+    
+}
+.general {
+    position: absolute;
+    width: 150px;
+    height: 300px;
+    font-weight: bold;
+}
+.detail {
+    position: absolute;
+    float: left;
+    left: 250px;
+    width: 300px;
+    height: 300px;
+}
+.title {
+    float: left;
+    top: 0px;
+    margin: 1px;
+    width: 325px;
+    clear: right;
+    font-weight: bold;
+}
+.department {
+    float: left;
+    top: 0px;
+    margin: 1px;
+    width: 325px;
+    clear: right;
+    font-size: 14px;
+}
+.email {
+    float: left;
+    top: 0px;
+    margin: 1px;
+    width: 325px;
+    clear: right;
+    font-size: 14px;
+}
+.bio {
+    text-align:left;
+    margin: 1px;
+    width: 325px;
+    clear: left;
+    font-size: 14px;
+}
+
+
